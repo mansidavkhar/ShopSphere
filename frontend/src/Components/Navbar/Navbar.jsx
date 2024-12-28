@@ -16,6 +16,7 @@ const Navbar = () => {
             <li>Men</li>
             <li>Women</li>
             <li>Kids</li>
+            <li>Sports</li>
         </ul>
 
         <div className="nav-login-cart">
